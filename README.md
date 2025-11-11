@@ -2,11 +2,11 @@
 
 <div align="center" style="background-color:#f8f1e7; padding: 25px; border-radius: 20px;">
 
-<h1 style="color:#4b2e1e;">🤎 Hi, I'm Mingoo!</h1>
+<h1 style="color:#4b2e1e;">🤎 Hi, I'm Minji!</h1>
 
 <p style="color:#5c3b2e; font-size:17px;">
 AI Product Manager · Data Analyst · Kiosk System Specialist  
-<i>“정보는 곧 나의 능력이며, 모든 선택은 데이터로부터 온다.”</i>
+<i>“하하”</i>
 </p>
 
 ---
@@ -28,8 +28,6 @@ AI Product Manager · Data Analyst · Kiosk System Specialist
 | 🗂️ Project | 📜 Description | ⚙️ Tech |
 |-------------|----------------|---------|
 | [📊 Internet Service Churn Prediction](https://github.com/mminguu/SKN20-1ST-1TEAM) | 고객 이탈 예측 AI 모델 | Python · XGBoost · Pandas |
-| [🏠 Interior AI Design Helper](https://github.com/mminguu/Interior-AI) | 실내건축 도면 인식 및 자동 추천 | Python · CNN · OpenCV |
-| [💰 Land Investment Dashboard](https://github.com/mminguu/Land-Investment) | 토지 자산 시각화 대시보드 | Streamlit · Matplotlib |
 
 ---
 
@@ -52,7 +50,7 @@ AI Product Manager · Data Analyst · Kiosk System Specialist
   <a href="https://github.com/mminguu">
     <img src="https://img.shields.io/badge/GitHub-mmimguu-F3E6D3?style=for-the-badge&logo=github&logoColor=4b2e1e"/>
   </a>
-  <a href="mailto:minguu.dev@gmail.com">
+  <a href="mailto:minguuu7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-minguu.dev@gmail.com-E5CBAF?style=for-the-badge&logo=gmail&logoColor=4b2e1e"/>
   </a>
   <a href="https://linkedin.com">
