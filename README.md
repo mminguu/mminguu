@@ -27,7 +27,7 @@ AI Product Manager · Data Analyst · Kiosk System Specialist
 
 | 🗂️ Project | 📜 Description | ⚙️ Tech |
 |-------------|----------------|---------|
-| [📊 Internet Service Churn Prediction](https://github.com/mminguu/SKN20-1ST-1TEAM) | 고객 이탈 예측 AI 모델 | Python · XGBoost · Pandas |
+| [📊 Internet Service Churn Prediction](https://github.com/mminguu/SKN20-1ST-1TEAM) | 자동차 등록 현황 및 기업 FAQ 조회 시스템 | Python ·  · Pandas · Streamlit |
 
 ---
 
