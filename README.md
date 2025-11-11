@@ -15,7 +15,7 @@
 
 <p style="font-size:17px; margin-top: -5px;">
 AI Product Manager · Data Analyst · Kiosk System Specialist  
-<br><i style="color:#5c3b2e;">“하하”</i>
+<br><i style="color:#5c3b2e;">“”</i>
 </p>
 
 ---
@@ -41,16 +41,17 @@ AI Product Manager · Data Analyst · Kiosk System Specialist
 ---
 
 ### 📚 Currently Learning
-- Deep Learning (CNN, RNN, Transformer)
-- Investment Analytics & Visualization
-- Streamlit Dashboard & Product Design
+- Python
+- Pandas
+- Machin Learning
+- Deep Learning
 
 ---
 
 ### 🐾 About Me
 - 🏡 Based in Seoul  
 - 🐕 Love pets, data, and meaningful design  
-- 💭 Vision: Connect **AI × Real Estate × Product Design**
+- 💭 Vision:
 
 ---
 
