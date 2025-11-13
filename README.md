@@ -25,8 +25,8 @@ AI Product Manager · Data Analyst · Kiosk System Specialist
   <img src="https://img.shields.io/badge/VSCode-F5E2BE?style=flat-square&logo=visualstudiocode&logoColor=3b2b20"/>
   <img src="https://img.shields.io/badge/Python-F2E3C9?style=flat-square&logo=python&logoColor=3b2b20"/>
   <img src="https://img.shields.io/badge/Pandas-EBD9B4?style=flat-square&logo=pandas&logoColor=3b2b20"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-E7D1A8?style=flat-square&logo=scikitlearn&logoColor=3b2b20"/>
   <img src="https://img.shields.io/badge/Streamlit-F3D8A5?style=flat-square&logo=streamlit&logoColor=3b2b20"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-E7D1A8?style=flat-square&logo=scikitlearn&logoColor=3b2b20"/>
   <img src="https://img.shields.io/badge/PyTorch-F2E3C9?style=flat-square&logo=pytorch&logoColor=3b2b20"/>
   <img src="https://img.shields.io/badge/TensorFlow-EBD9B4?style=flat-square&logo=tensorflow&logoColor=3b2b20"/>
   <img src="https://img.shields.io/badge/Keras-E7D1A8?style=flat-square&logo=keras&logoColor=3b2b20"/>
