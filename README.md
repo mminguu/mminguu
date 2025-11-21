@@ -14,7 +14,7 @@
 <h1 style="color:#3b2b20; font-size: 30px; font-weight: 700;"> Hi, I'm Minji!</h1>
 
 <p style="font-size:17px; margin-top: -5px;">
-AI Product Manager · Data Analyst · Kiosk System Specialist  
+<!-- AI Product Manager · Data Analyst · Kiosk System Specialist   -->
 <br><i style="color:#5c3b2e;">“”</i>
 </p>
 
