@@ -59,21 +59,6 @@
 
 ---
 
-### 🤎 Let's Connect!
-<p>
-  <a href="https://github.com/mminguu">
-    <img src="https://img.shields.io/badge/GitHub-mmimguu-F5E2BE?style=for-the-badge&logo=github&logoColor=3b2b20"/>
-  </a>
-  <a href="mailto:minguuu7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-minguuu7@gmail.com-E7D1A8?style=for-the-badge&logo=gmail&logoColor=3b2b20"/>
-  </a>
-  <a href="https://www.instagram.com/mminguu_/">
-    <img src="https://img.shields.io/badge/Instagram-mminguu_-EBD9B4?style=for-the-badge&logo=instagram&logoColor=3b2b20"/>
-  </a>
-</p>
-
----
-
 ![Mingoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mminguu&show_icons=true&bg_color=f5ecd9&title_color=3b2b20&text_color=3b2b20&icon_color=3b2b20)
 
 ---
