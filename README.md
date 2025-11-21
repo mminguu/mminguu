@@ -5,13 +5,13 @@
   padding: 35px;
   border-radius: 18px;
   font-family: 'Segoe UI', Arial, sans-serif;
-  color: #3b2b20;
+  /* color: #3b2b20; */
   line-height: 1.7;
   font-size: 16px;
   text-align: left;
 ">
 
-<h1 style="color:#3b2b20; font-size: 30px; font-weight: 700;">🤎 Hi, I'm Minji!</h1>
+<h1 style="color:#3b2b20; font-size: 30px; font-weight: 700;"> Hi, I'm Minji!</h1>
 
 <p style="font-size:17px; margin-top: -5px;">
 AI Product Manager · Data Analyst · Kiosk System Specialist  
