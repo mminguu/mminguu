@@ -67,7 +67,7 @@
   <a href="mailto:minguuu7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-minguuu7@gmail.com-E7D1A8?style=for-the-badge&logo=gmail&logoColor=3b2b20"/>
   </a>
-  <a href="https://www.instagram.com">
+  <a href="https://www.instagram.com](https://www.instagram.com/mminguu_/">
     <img src="https://img.shields.io/badge/Instagram-mminguu_-EBD9B4?style=for-the-badge&logo=instagram&logoColor=3b2b20"/>
   </a>
 </p>
