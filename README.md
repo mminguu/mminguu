@@ -47,7 +47,7 @@
 ### 📚 Currently Learning
 - Python
 - Pandas
-- Machin Learning
+- Machine Learning
 - Deep Learning
 
 ---
@@ -56,10 +56,6 @@
 - 🏡 Based in Seoul  
 - 🐕 Love pets, data, and meaningful design  
 <!-- 💭 Vision: -->
-
----
-
-![Mingoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mminguu&show_icons=true&bg_color=f5ecd9&title_color=3b2b20&text_color=3b2b20&icon_color=3b2b20)
 
 ---
 
