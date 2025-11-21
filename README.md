@@ -39,7 +39,8 @@
 
 | 🗂️ Project | 📜 Description | ⚙️ Tech |
 |-------------|----------------|---------|
-| [📊 Vehicle Registration & FAQ System](https://github.com/mminguu/SKN20-1ST-1TEAM) | 자동차 등록 현황 및 기업 FAQ 조회 시스템 | Python · Pandas · Streamlit |
+| [📕 Vehicle Registration & FAQ System](https://github.com/mminguu/SKN20-1ST-1TEAM) | 자동차 등록 현황 및 기업 FAQ 조회 시스템 | Python · Pandas · Streamlit |
+| [📗 Customer Churn Prediction](https://github.com/mminguu/SKN20-2nd-3TEAM) | 가입 고객 이탈 예측 | EDA · Modeling · Cross Validation |
 
 ---
 
@@ -54,7 +55,7 @@
 ### 🐾 About Me
 - 🏡 Based in Seoul  
 - 🐕 Love pets, data, and meaningful design  
-- 💭 Vision:
+<!-- 💭 Vision: -->
 
 ---
 
