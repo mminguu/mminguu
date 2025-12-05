@@ -50,6 +50,7 @@
 - Pandas
 - Machine Learning
 - Deep Learning
+- LLM
 
 ---
 
