@@ -41,7 +41,7 @@
 |-------------|----------------|---------|
 | [📕 Vehicle Registration & FAQ System](https://github.com/mminguu/SKN20-1ST-1TEAM) | 자동차 등록 현황 및 기업 FAQ 조회 시스템 | Python · Pandas · Streamlit |
 | [📘 Customer Churn Prediction](https://github.com/mminguu/SKN20-2nd-3TEAM) | 가입 고객 이탈 예측 | EDA · Modeling · Cross Validation |
-| [📗 LLM-linked Q&A System](https://github.com/mminguu/) | LLM 연동한 내외부 문서 기반 질의 응답 시스템 |Chunking · RAG · Embedding · Retriever · VectorDB · LangChain · LangGraph|
+| [📗 LLM-linked Q&A System](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-1TEAM) | LLM 연동한 내외부 문서 기반 질의 응답 시스템 |Chunking · RAG · Embedding · Retriever · VectorDB · LangChain · LangGraph|
 
 ---
 
