@@ -109,7 +109,13 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 
 ## 🌱 Currently Learning
 
-`LLM Fine-tuning` &nbsp;·&nbsp; `Agentic RAG` &nbsp;·&nbsp; `MLOps` &nbsp;·&nbsp; `AI Service Engineering`
+| 분야 | 내용 |
+|------|------|
+| **LLM Engineering** | sLLM Fine-tuning (QLoRA) · Prompt Engineering · Multimodal LLM |
+| **Agentic AI** | LangGraph Agent 설계 · Human-in-the-loop · Multi-agent Orchestration |
+| **Data Engineering** | End-to-End 파이프라인 설계 · 대용량 데이터 수집 및 정제 · Vector DB 최적화 |
+| **MLOps** | vLLM 서빙 · Serverless 배포 (RunPod) · Docker · AWS 인프라 운영 |
+| **Computer Vision** | CLIP Fine-tuning · Triplet Loss · Canny Edge Detection · 유사도 검색 최적화 |
 
 ---
 
