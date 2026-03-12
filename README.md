@@ -103,13 +103,7 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Minji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mminguu&show_icons=true&theme=default&hide_border=true&title_color=222222&text_color=555555&icon_color=888888&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mminguu&layout=compact&hide_border=true&title_color=222222&text_color=555555&bg_color=ffffff)
-
-</div>
+![Minji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mminguu&show_icons=true&theme=cobalt&hide_border=true)
 
 ---
 
