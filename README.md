@@ -57,7 +57,7 @@
 
 ## 🎢 어트랙션 (Projects)
 
-### 🎠 [FTOGuard — 특허·디자인 침해 리스크 판단 AI 서비스]([https://github.com/mminguu/SKN20-FINAL-2TEAM](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM))
+### 🎠 [FTOGuard — 특허·디자인 침해 리스크 판단 AI 서비스](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)
 > `Computer Vision` `Deep Learning` `RAG` `LangGraph` `vLLM` `RunPod`
 
 FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되는 문제를 해결하기 위한 AI 의사결정 보조 서비스.
@@ -70,7 +70,7 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 
 ---
 
-### 🤖 [청년이음 — 청년·1인 가구 생활복지 지원 챗봇]([https://github.com/mminguu/SKN20-3rd-1TEAM](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-1TEAM))
+### 🤖 [청년이음 — 청년·1인 가구 생활복지 지원 챗봇](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-1TEAM)
 > `RAG` `LangChain` `Django` `ChromaDB` `BM25` `GPT-4o-mini`
 
 복잡한 정부 지원 정책 속에서 개인 맞춤 혜택을 빠르게 찾아주는 RAG 기반 챗봇.
@@ -81,7 +81,7 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 
 ---
 
-### ⛲️ [Customer Churn Prediction — 고객 이탈 예측]([https://github.com/mminguu/SKN20-2nd-3TEAM](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-3TEAM))
+### ⛲️ [Customer Churn Prediction — 고객 이탈 예측](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-3TEAM)
 > `Machine Learning` `XGBoost` `EDA` `GridSearchCV`
 
 통신 서비스 고객의 이탈 가능성을 예측하여 전략적 인사이트를 제공하는 ML 프로젝트.
