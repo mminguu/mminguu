@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=250&section=header&text=Hello,%20I'm%20Minji%20&fontSize=70&fontColor=ffffff&desc=AI%20PL%20·%20AI%20Agentic %20Engineering&descSize=22&descAlignY=75&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=250&section=header&text=Hello,%20I'm%20Minji%20&fontSize=70&fontColor=ffffff&desc=AI%20PL%20·%20AI%20Agentic%20Engineering&descSize=22&descAlignY=75&animation=twinkling)
 
 <div align="center">
 
