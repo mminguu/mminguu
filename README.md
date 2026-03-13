@@ -1,10 +1,10 @@
 <div align="center">
 
 <p>
-  <a href="#-about-me">소개</a> &nbsp;·&nbsp;
-  <a href="#-projects">프로젝트</a> &nbsp;·&nbsp;
-  <a href="#️-tech-stack">기술 스택</a> &nbsp;·&nbsp;
-  <a href="#-currently-learning">학습 중</a>
+  <a href="#-about-me">가이드북(소개)</a> &nbsp;·&nbsp;
+  <a href="#-attractions">어트랙션(프로젝트)</a> &nbsp;·&nbsp;
+  <a href="#-souvenir-shop">기술 스택</a> &nbsp;·&nbsp;
+  <a href="#-fast-pass">학습 중</a>
 </p>
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
@@ -16,29 +16,24 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
   <rect width="900" height="280" fill="url(#bg)" rx="12"/>
 
-  <!-- Wave 1 (dark, bottom) -->
   <path d="M0,200 C150,170 300,230 450,200 C600,170 750,210 900,190 L900,280 L0,280 Z" fill="#0a1f35" opacity="0.85"/>
-  <!-- Wave 2 (mid) -->
   <path d="M0,220 C120,200 280,245 450,220 C620,195 780,235 900,215 L900,280 L0,280 Z" fill="#071525" opacity="0.6"/>
 
-  <!-- Main title -->
   <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800"
-    fill="white" text-anchor="middle" letter-spacing="-1">Hello, I'm Minji</text>
+    fill="white" text-anchor="middle" letter-spacing="-1">Welcome to Minji Land</text>
 
-  <!-- Subtitle -->
   <text x="450" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="400"
-    fill="#a8d8ea" text-anchor="middle" letter-spacing="1">AI PL · AI Service Engineer</text>
+    fill="#a8d8ea" text-anchor="middle" letter-spacing="1">Data-Driven AI Adventure 🎢</text>
 </svg>
 
 <br/>
 
-### 👋 Welcome to Minji Land
+### 👋 환영합니다! AI와 데이터가 춤추는 **Minji Land**입니다!
 
-*현장의 신호 속에서 문제의 패턴을 읽어내는 개발자.*
-*방대한 운영 데이터를 정밀하게 들여다보며 시스템의 병목을 해결하는 데이터 기반의 엔지니어.*
+*현장의 신호 속에서 보물 같은 패턴을 찾아내는 탐험가.*
+*복잡한 데이터의 미로를 지나 효율적인 시스템이라는 성을 짓는 엔지니어.*
 
 <br/>
 
@@ -49,52 +44,26 @@
 
 ---
 
-## ✨ About Me
+## ✨ About the Owner (가이드 소개)
 
-> "운영의 안정성 위에 기술의 화려함을 더해, 비즈니스라는 축제가 멈추지 않도록 만듭니다."
+> **"운영의 안정성이라는 레일 위에 기술의 화려함을 더해, 비즈니스라는 축제가 멈추지 않도록 만듭니다."**
 
-- 🏡 Based in Seoul
-- 🔍 복잡한 데이터 속 패턴을 찾아 AI 서비스로 연결하는 것을 좋아합니다
-- 🔧 End-to-End 파이프라인 설계부터 LLM 서비스 배포까지 경험했습니다
+- 🏡 **Base**: Seoul (Minji Land 본부)
+- 🔍 **Mission**: 복잡한 데이터 속 패턴을 찾아 AI 서비스라는 짜릿한 경험으로 연결합니다.
+- 🔧 **Expertise**: End-to-End 파이프라인 설계부터 LLM 서비스 배포까지, 파크의 모든 설비를 직접 구축합니다.
 
 ---
 
-🍿 관람 가이드 (Tech Stack)
+## 🍿 Souvenir Shop (Tech Stack)
 
 **Language & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**ML / DL & Vision**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CLIP](https://img.shields.io/badge/CLIP_(OpenAI)-412991?style=flat-square&logo=openai&logoColor=white)
 
-**ML / DL**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square&logoColor=white)
-
-**Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP_(OpenAI)-412991?style=flat-square&logo=openai&logoColor=white)
-
-**LLM / RAG**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-F5A623?style=flat-square&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-6E40C9?style=flat-square&logoColor=white)
-
-**Infra & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**LLM / RAG & Infra**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -141,20 +110,21 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 자동차 등록 현황 및 기업 FAQ 조회 시스템.
 
 
+
 ---
 
-## 🎡 Currently Learning
+## 🎫 Fast Pass (Currently Learning)
 
-| 분야 | 내용 |
+| 구역 | 운영 계획 |
 |------|------|
-| **LLM Engineering** | sLLM Fine-tuning (QLoRA) · Prompt Engineering · Multimodal LLM |
-| **Agentic AI** | LangGraph Agent 설계 · Human-in-the-loop · Multi-agent Orchestration |
-| **Data Engineering** | End-to-End 파이프라인 설계 · 대용량 데이터 수집 및 정제 · Vector DB 최적화 |
-| **MLOps** | vLLM 서빙 · Serverless 배포 (RunPod) · Docker · AWS 인프라 운영 |
-| **Computer Vision** | CLIP Fine-tuning · Triplet Loss · Canny Edge Detection · 유사도 검색 최적화 |
+| **LLM Zone** | sLLM Fine-tuning (QLoRA) & Multimodal LLM 마스터 중 |
+| **Agent City** | LangGraph를 이용한 고도화된 Multi-agent 협업 설계 |
+| **Data Factory** | 대용량 데이터 수집 및 Vector DB 최적화 파이프라인 확장 |
+| **Cloud Square** | vLLM & MLOps를 활용한 끊김 없는 서비스 배포 환경 구축 |
 
 ---
 
 <div align="center">
-<sub>Seoul-based · data-driven · always learning 🤍</sub>
+🎡 <b>Minji Land</b>는 연중무휴 성장 중입니다! 즐거우셨다면 <b>Star(⭐)</b> 한 번 꾹 눌러주세요! <br/>
+<sub>Seoul-based · Data-driven Adventure · Always Learning 🤍</sub>
 </div>
