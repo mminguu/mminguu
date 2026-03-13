@@ -112,7 +112,7 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 
 ---
 
-<div align="center">
+<div align="center"  font-size="70" font-weight="800">
 🎡 <b>Minji Land</b>는 연중무휴 성장 중입니다! <br/>
 <sub>Seoul-based · Data-driven Adventure · Always Learning 🤍</sub>
 </div>
