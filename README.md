@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:002c5f,100:7C3AED&height=250&section=header&text=Hi , I'm Minji&fontSize=70&fontColor=ffffff&desc=AI PL · AI Service Engineer&descSize=20&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=250&section=header&text=Welcome%20to%20Minji%20Land&fontSize=60&fontColor=ffffff&desc=AI%20&%20Data%20Adventure%20Park&descSize=20&descAlignY=75)
 
 <div align="center">
 
