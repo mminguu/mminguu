@@ -16,13 +16,13 @@
   <path d="M0,200 C150,170 300,230 450,200 C600,170 750,210 900,190 L900,280 L0,280 Z" fill="#0a1f35" opacity="0.85"/>
   <path d="M0,220 C120,200 280,245 450,220 C620,195 780,235 900,215 L900,280 L0,280 Z" fill="#071525" opacity="0.6"/>
 
-  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800"
+  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="70" font-weight="800"
     fill="white" text-anchor="middle" letter-spacing="-1">✨ Welcome to Minji Land</text>
 
-  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800"
+  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="65" font-weight="800"
     fill="white" text-anchor="middle" letter-spacing="-1">"AI와 데이터가 함께 어울려 노는 공간입니다."</text>
 
-  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800"
+  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="65" font-weight="800"
     fill="white" text-anchor="middle" letter-spacing="-1">"복잡한 데이터의 미로를 지나 효율적인 시스템이라는 성을 짓고자 합니다."</text>
 </svg>
 
