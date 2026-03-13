@@ -1,10 +1,41 @@
 <div align="center">
 
+<p>
+  <a href="#-about-me">소개</a> &nbsp;·&nbsp;
+  <a href="#-projects">프로젝트</a> &nbsp;·&nbsp;
+  <a href="#️-tech-stack">기술 스택</a> &nbsp;·&nbsp;
+  <a href="#-currently-learning">학습 중</a>
+</p>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f2942"/>
+      <stop offset="50%" style="stop-color:#1a6b8a"/>
+      <stop offset="100%" style="stop-color:#0abfbc"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)" rx="12"/>
+
+  <!-- Wave 1 (dark, bottom) -->
+  <path d="M0,200 C150,170 300,230 450,200 C600,170 750,210 900,190 L900,280 L0,280 Z" fill="#0a1f35" opacity="0.85"/>
+  <!-- Wave 2 (mid) -->
+  <path d="M0,220 C120,200 280,245 450,220 C620,195 780,235 900,215 L900,280 L0,280 Z" fill="#071525" opacity="0.6"/>
+
+  <!-- Main title -->
+  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800"
+    fill="white" text-anchor="middle" letter-spacing="-1">Hello, I'm Minji</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="400"
+    fill="#a8d8ea" text-anchor="middle" letter-spacing="1">AI PL · AI Service Engineer</text>
+</svg>
+
 <br/>
 
-# Minji · 민지
-
-**AI PL / AI Service Engineer**
+### 👋 Welcome to Minji Land
 
 *현장의 신호 속에서 문제의 패턴을 읽어내는 개발자.*
 *방대한 운영 데이터를 정밀하게 들여다보며 시스템의 병목을 해결하는 데이터 기반의 엔지니어.*
@@ -18,7 +49,17 @@
 
 ---
 
-## 🛠 Tech Stack
+## ✨ About Me
+
+> "운영의 안정성 위에 기술의 화려함을 더해, 비즈니스라는 축제가 멈추지 않도록 만듭니다."
+
+- 🏡 Based in Seoul
+- 🔍 복잡한 데이터 속 패턴을 찾아 AI 서비스로 연결하는 것을 좋아합니다
+- 🔧 End-to-End 파이프라인 설계부터 LLM 서비스 배포까지 경험했습니다
+
+---
+
+🍿 관람 가이드 (Tech Stack)
 
 **Language & Data**
 
@@ -57,9 +98,9 @@
 
 ---
 
-## 📂 Projects
+## 🎢 어트랙션 (Projects)
 
-### 🔬 [FTOGuard — 특허·디자인 침해 리스크 판단 AI 서비스](https://github.com/mminguu/SKN20-FINAL-2TEAM)
+### 🎠 [FTOGuard — 특허·디자인 침해 리스크 판단 AI 서비스](https://github.com/mminguu/SKN20-FINAL-2TEAM)
 > `Computer Vision` `Deep Learning` `RAG` `LangGraph` `vLLM` `RunPod`
 
 FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되는 문제를 해결하기 위한 AI 의사결정 보조 서비스.
@@ -83,7 +124,7 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 
 ---
 
-### 📉 [Customer Churn Prediction — 고객 이탈 예측](https://github.com/mminguu/SKN20-2nd-3TEAM)
+### ⛲️ [Customer Churn Prediction — 고객 이탈 예측](https://github.com/mminguu/SKN20-2nd-3TEAM)
 > `Machine Learning` `XGBoost` `EDA` `GridSearchCV`
 
 통신 서비스 고객의 이탈 가능성을 예측하여 전략적 인사이트를 제공하는 ML 프로젝트.
@@ -99,15 +140,10 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 
 자동차 등록 현황 및 기업 FAQ 조회 시스템.
 
----
-
-## 📊 GitHub Stats
-
-![Minji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mminguu&show_icons=true&theme=cobalt&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ---
 
-## 🌱 Currently Learning
+## 🎡 Currently Learning
 
 | 분야 | 내용 |
 |------|------|
