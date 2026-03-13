@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=250&section=header&text=Hello,%20I'm%20Minji%20🍬&fontSize=70&fontColor=ffffff&desc=Sweet%20AI%20PL%20·%20AI%20Service%20Engineer&descSize=22&descAlignY=75&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=250&section=header&text=Hello,%20I'm%20Minji%20🍬&fontSize=70&fontColor=ffffff&desc=AI%20PL%20·%20AI%20Service%20Engineer&descSize=22&descAlignY=75&animation=twinkling)
 
 <div align="center">
 
@@ -17,20 +17,14 @@
   <path d="M0,220 C120,200 280,245 450,220 C620,195 780,235 900,215 L900,280 L0,280 Z" fill="#071525" opacity="0.6"/>
 
   <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800"
-    fill="white" text-anchor="middle" letter-spacing="-1">Welcome to Minji Land</text>
+    fill="white" text-anchor="middle" letter-spacing="-1">✨ Welcome to Minji Land</text>
 
-  <text x="450" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="400"
-    fill="#a8d8ea" text-anchor="middle" letter-spacing="1">Data-Driven AI Adventure 🎢</text>
+  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800"
+    fill="white" text-anchor="middle" letter-spacing="-1">"AI와 데이터가 함께 어울려 노는 공간입니다."</text>
+
+  <text x="450" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="800"
+    fill="white" text-anchor="middle" letter-spacing="-1">"복잡한 데이터의 미로를 지나 효율적인 시스템이라는 성을 짓고자 합니다."</text>
 </svg>
-
-<br/>
-
-### 👋 환영합니다! AI와 데이터가 춤추는 **Minji Land**입니다!
-
-*현장의 신호 속에서 보물 같은 패턴을 찾아내는 탐험가.*
-*복잡한 데이터의 미로를 지나 효율적인 시스템이라는 성을 짓는 엔지니어.*
-
-<br/>
 
 [![Gmail](https://img.shields.io/badge/mminguuu7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mminguuu7@gmail.com)
 [![GitHub](https://img.shields.io/badge/@mminguu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mminguu)
@@ -41,11 +35,12 @@
 
 ## ✨ About the Owner (가이드 소개)
 
-> **"운영의 안정성이라는 레일 위에 기술의 화려함을 더해, 비즈니스라는 축제가 멈추지 않도록 만듭니다."**
+> **"현장의 신호 속에서 문제의 패턴을 읽어내는 개발자"**
+> **"방대한 운영 데이터를 정밀하게 들여다보며 시스템의 병목을 해결하는 데이터 기반의 엔지니어"**
 
 - 🏡 **Base**: Seoul (Minji Land 본부)
 - 🔍 **Mission**: 복잡한 데이터 속 패턴을 찾아 AI 서비스라는 짜릿한 경험으로 연결합니다.
-- 🔧 **Expertise**: End-to-End 파이프라인 설계부터 LLM 서비스 배포까지, 파크의 모든 설비를 직접 구축합니다.
+- 🔧 **Expertise**: End-to-End 파이프라인 설계부터 LLM 서비스 배포까지, 파크의 모든 설비를 직접 구축하고자 합니다.
 
 ---
 
@@ -103,7 +98,6 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 > `Python` `Pandas` `Streamlit`
 
 자동차 등록 현황 및 기업 FAQ 조회 시스템.
-
 
 
 ---
