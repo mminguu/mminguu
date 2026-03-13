@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=250&section=header&text=Hello,%20I'm%20Minji%20🍬&fontSize=70&fontColor=ffffff&desc=AI%20PL%20·%20AI%20Service%20Engineer&descSize=22&descAlignY=75&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=250&section=header&text=Hello,%20I'm%20Minji%20&fontSize=70&fontColor=ffffff&desc=AI%20PL%20·%20AI%20Service%20Engineer&descSize=22&descAlignY=75&animation=twinkling)
 
 <div align="center">
 
@@ -27,7 +27,6 @@
 </svg>
 
 [![Gmail](https://img.shields.io/badge/mminguuu7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mminguuu7@gmail.com)
-[![GitHub](https://img.shields.io/badge/@mminguu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mminguu)
 
 </div>
 
@@ -36,9 +35,10 @@
 ## ✨ About the Owner (가이드 소개)
 
 > **"현장의 신호 속에서 문제의 패턴을 읽어내는 개발자"**
+
 > **"방대한 운영 데이터를 정밀하게 들여다보며 시스템의 병목을 해결하는 데이터 기반의 엔지니어"**
 
-- 🏡 **Base**: Seoul (Minji Land 본부)
+- 🏡 **Base**: Seoul
 - 🔍 **Mission**: 복잡한 데이터 속 패턴을 찾아 AI 서비스라는 짜릿한 경험으로 연결합니다.
 - 🔧 **Expertise**: End-to-End 파이프라인 설계부터 LLM 서비스 배포까지, 파크의 모든 설비를 직접 구축하고자 합니다.
 
@@ -110,6 +110,7 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 | **Agent City** | LangGraph를 이용한 고도화된 Multi-agent 협업 설계 |
 | **Data Factory** | 대용량 데이터 수집 및 Vector DB 최적화 파이프라인 확장 |
 | **Cloud Square** | vLLM & MLOps를 활용한 끊김 없는 서비스 배포 환경 구축 |
+| **Core Dev** | 견고한 시스템: 예외 처리 강화 및 지수 백오프 기반의 재시도 로직을 통한 데이터 파이프라인 신뢰성 확보 |
 
 ---
 
