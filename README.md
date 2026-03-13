@@ -1,11 +1,6 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:002c5f,100:7C3AED&height=250&section=header&text=Hi , I'm Minji&fontSize=70&fontColor=ffffff&desc=AI PL · AI Service Engineer&descSize=20&descAlignY=75)
 
-<p>
-  <a href="#-about-me">가이드북(소개)</a> &nbsp;·&nbsp;
-  <a href="#-attractions">어트랙션(프로젝트)</a> &nbsp;·&nbsp;
-  <a href="#-souvenir-shop">기술 스택</a> &nbsp;·&nbsp;
-  <a href="#-fast-pass">학습 중</a>
-</p>
+<div align="center">
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
   <defs>
