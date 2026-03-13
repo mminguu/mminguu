@@ -92,7 +92,7 @@ FTO(Freedom-To-Operate) 조사에 평균 2주 이상, 수백만 원이 소요되
 
 ---
 
-### 🚗 [Vehicle Registration & FAQ System]([https://github.com/mminguu/SKN20-1ST-1TEAM](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-1TEAM))
+### 🚗 [Vehicle Registration & FAQ System](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-1TEAM)
 > `Python` `Pandas` `Streamlit`
 
 자동차 등록 현황 및 기업 FAQ 조회 시스템.
