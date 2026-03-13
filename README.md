@@ -26,8 +26,6 @@
     fill="white" text-anchor="middle" letter-spacing="-1">"복잡한 데이터의 미로를 지나 효율적인 시스템이라는 성을 짓고자 합니다."</text>
 </svg>
 
-[![Gmail](https://img.shields.io/badge/mminguuu7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mminguuu7@gmail.com)
-
 </div>
 
 ---
